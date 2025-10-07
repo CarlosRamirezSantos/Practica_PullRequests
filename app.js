@@ -1,1 +1,1 @@
-function saludar() { return "Hola"; } console.log(saludo por que la voy a liar());
+function saludar() { return "Hola que la lio"; } console.log(saludo());
